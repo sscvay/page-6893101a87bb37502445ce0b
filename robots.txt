@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muyouyisi.cn/sitemap.xml
